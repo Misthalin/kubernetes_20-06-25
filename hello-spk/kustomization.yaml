@@ -12,4 +12,5 @@ configMapGenerator:
     namespace: misthalin
     files:
       - index.html
+      - styles.css
 
